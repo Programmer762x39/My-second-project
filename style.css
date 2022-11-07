@@ -1,0 +1,388 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+body{
+    font-family: 'League Spartan', sans-serif;
+}
+.thrivetalk{
+    position: absolute;
+    width: 484px;
+    height: 27px;
+    left: 179px;
+    top: 27px;
+    font-size: 24px;
+    line-height: 27px;
+    letter-spacing: -0,035em;
+    color: #62D0DF;
+}
+.home{
+    position: absolute;
+width: 233px;
+height: 14px;
+left: 900px;
+top: 38px;
+
+font-family: 'League Spartan';
+font-size: 14px;
+line-height: 16px;
+color: #22356F;
+}
+
+.one{
+    position: absolute;
+width: 150px;
+height: 50px;
+left: 1159px;
+top: 27px;
+
+background: #62D0DF;
+border-radius: 50px;
+}
+
+.two{
+    position:relative;
+    left: 40px;
+    margin-top: 20px;
+}
+.helping{
+    position: absolute;
+width: 484px;
+height: 167px;
+left: 179px;
+top: 305px;
+
+font-family: 'League Spartan';
+font-size: 48px;
+line-height: 53px;
+letter-spacing: -0.035em;
+
+color: #22356F;
+}
+
+.pic{
+    position: relative;
+    margin-top: 280px;
+    width: 807.71px;
+    height: 544.93px;
+    left: 790pX;
+    top: -170.66px;
+   
+   
+}
+
+.pic1{
+ 
+    width: 500px;
+    size: 50px;
+
+}
+
+.first-block{
+    position: absolute;
+width: 1500px;
+height: 850px;
+left: 0px;
+top: 0px;
+
+background: #F4F9E2;
+}
+
+.helping2{
+    position: absolute;
+width: 469px;
+height: 161px;
+left: 179px;
+top: 491px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 42px;
+
+color: #22356F;
+
+}
+
+.what{
+    position: absolute;
+width: 150px;
+height: 43px;
+left: 367px;
+top: 718px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+
+color: #FAB63E;
+}
+.who{
+    position: absolute;
+width: 150px;
+height: 50px;
+left: 179px;
+top: 715px;
+position: absolute;
+width: 90px;
+height: 29px;
+left: 209px;
+top: 725px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+
+
+
+background: #F9B640;
+}
+
+.second-block{
+    position: absolute;
+width: 1437px;
+height: 807px;
+left: 1px;
+top: 842px;
+
+background: #62D0DF;
+}
+
+.why2{
+    position: relative;
+    width: 223px;
+    height: 51px;
+    left: 179px;
+    margin-bottom: 500px;
+ 
+    
+    
+    font-family: 'Larsseit';
+    font-size: 36px;
+    line-height: 27px;
+    letter-spacing: -0.006em;
+    
+    color: #FFFFFF;
+    
+
+}
+.want{
+    position: absolute;
+width: 555px;
+height: 235px;
+left: 179px;
+top: 1119px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+}
+.pic2{
+
+position: absolute;
+width: 525px;
+height: 604px;
+left: 790px;
+top: 150px;
+}
+.why2{
+    position: relative;
+width: 223px;
+height: 51px;
+left: 179px;
+top: 190px;
+
+font-family: 'Larsseit';
+font-size: 36px;
+line-height: 27px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+}
+.about {
+    position: absolute;
+width: 93px;
+height: 210px;
+left: 106px;
+top: 1800px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 23px;
+letter-spacing: 0.06em;
+
+color: #22356F;
+}
+
+.wewant{
+    position: absolute;
+width: 592px;
+height: 210px;
+left: 424px;
+top: 1800px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 34px;
+letter-spacing: 0.005em;
+
+color: #22356F;
+
+}
+
+.wecanhelpyou{
+    position: absolute;
+    width: 221px;
+    height: 21px;
+    left: 620px;
+    top: 2050px;
+    
+    font-family: 'Larsseit';
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    
+    color: rgba(34, 53, 111, 0.5);
+}
+
+.weight{
+    position: absolute;
+    width: 232px;
+    height: 54px;
+    left: 78px;
+    top: 2022px;
+    margin-bottom: 200px;
+    
+    font-family: 'League Spartan';
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    
+    color: #FFFFFF;
+
+position: absolute;
+width: 360px;
+height: 360px;
+left: 0px;
+top: 2150px;
+
+background: #FFE2DE;
+}
+
+.weight2{
+    position: absolute;
+    width: 232px;
+    height: 54px;
+    left: 78px;
+    top: 2322px;
+    
+    font-family: 'Larsseit';
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+color: #FFFFFF
+}
+.running{
+
+position: absolute;
+width: 360px;
+height: 360px;
+left: 360px;
+top: 2150px;
+
+background: #C4E769;
+}
+
+.running2{
+    position: absolute;
+    width: 232px;
+    height: 54px;
+    left: 450px;
+    top: 2322px;
+    
+    font-family: 'Larsseit';
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    color: #FFFFFF
+    ;
+}
+.pumping{
+    position: absolute;
+    width: 360px;
+    height: 360px;
+    left: 720px;
+    top: 2150px;
+    
+    background: #62D0DF;}
+    
+    .pumping1{
+    position: absolute;
+    width: 218px;
+    height: 54px;
+    left: 798px;
+    top: 2322px;
+    
+    font-family: 'Larsseit';
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    
+    color: #FFFFFF
+    }
+    
+    .Pumping3{
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 1078px;
+        top: 2150px;
+        background: #0052C1;
+    }
+
+    .justiron{
+        position: absolute;
+    width: 218px;
+    height: 54px;
+    left: 1190px;
+    top: 2322px;
+    
+    font-family: 'Larsseit';
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    
+    color: #FFFFFF   
+    }
+
+
